@@ -1,15 +1,25 @@
 Flutter
   Training app
     - Login
+      - Login with send code by mail by 'trainer'
+      - If code is invalid, login fails with message
     - Week planner
+      - Running training
+      - Strength training
+      - Other training sessions
     - Start training
     - Make training
-      - Needs okay to be implemented in week
+      - Needs okay/accepted to be implemented in training week
+        - Needs to be accepted by 'trainer'
+          - Sends confirmation message
 
     - Training history
+      - Shows summary of training
+
     - Plan training week
       - Adjust week volume when neede
       - Training based on history
       - Editable training
 
     - Encryped file save
+
