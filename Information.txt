@@ -1,0 +1,15 @@
+Flutter
+  Training app
+    - Login
+    - Week planner
+    - Start training
+    - Make training
+      - Needs okay to be implemented in week
+
+    - Training history
+    - Plan training week
+      - Adjust week volume when neede
+      - Training based on history
+      - Editable training
+
+    - Encryped file save
