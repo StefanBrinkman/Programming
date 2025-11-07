@@ -23,3 +23,7 @@ Flutter
 
     - Encryped file save
 
+  Cadence app
+    - Music API (Spotify, YT)?
+    - Cadence sound
+    - Cadence sound louder then music sound
